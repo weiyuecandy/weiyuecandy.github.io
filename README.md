@@ -44,3 +44,10 @@ are generated from the corrected media. Videos do not autoplay.
 
 The exact values used for these nine clips are documented in
 `VIDEO_TRIM_AND_CROP.csv`.
+
+
+## Google Search indexing (SEO)
+The website includes sitemap.xml, robots.txt, canonical links, and structured-data metadata.
+In Google Search Console add the URL-prefix property https://weiyuecandy.github.io/ and verify ownership.
+Use URL Inspection to request indexing of the homepage and submit sitemap.xml in Sitemaps.
+Google ownership verification HTML file is account-specific: download it from Search Console and upload it unchanged to the GitHub repository root.
