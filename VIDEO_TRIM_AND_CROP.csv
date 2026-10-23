@@ -1,0 +1,10 @@
+﻿project,slide,source,source_duration_s,trim_start_s,trim_end_removed_s,duration_after_trim_s,ppt_crop_percent,input_resolution,cropped_resolution,export_resolution
+Bone-in-Flesh — impact resilience,10,media1.mp4,14.333,3.157,0.0,11.176,"{""left"": 0.0, ""top"": 0.0, ""right"": 0.0, ""bottom"": 0.0}",3840x2160,3840x2160,960x540
+Bone-in-Flesh — programmable deformation,15,media5.mp4,20.3,3.506,0.0,16.794,"{""left"": 0.0, ""top"": 0.0, ""right"": 0.0, ""bottom"": 0.0}",1920x1080,1920x1080,960x540
+Bone-in-Flesh — six-finger gripper,19,media7.mp4,12.867,3.157,0.0,9.71,"{""left"": 0.0, ""top"": 0.0, ""right"": 0.0, ""bottom"": 0.0}",1920x1080,1920x1080,960x540
+Flying robot — takeoff,27,media9.mp4,8.5,4.433,0.0,4.067,"{""left"": 31.5, ""top"": 0.0, ""right"": 31.58, ""bottom"": 0.0}",1280x720,472x720,472x720
+Flying robot — hovering,28,media10.mp4,21.967,4.83,1.114,16.023,"{""left"": 12.91, ""top"": 0.0, ""right"": 12.81, ""bottom"": 0.0}",1280x720,950x720,950x720
+Flying robot — trajectory adjustment,29,media11.mp4,10.133,3.37,0.0,6.763,"{""left"": 12.53, ""top"": 0.0, ""right"": 12.97, ""bottom"": 0.0}",1920x1080,1430x1080,952x720
+Flying robot — controlled flight,30,media14.mp4,8.367,0.0,4.783,3.583,"{""left"": 0.0, ""top"": 0.0, ""right"": 50.39, ""bottom"": 0.0}",2310x1104,1146x1104,746x720
+Swarm robot — crawling,35,media15.mp4,5.2,0.0,0.0,5.2,"{""left"": 21.44, ""top"": 3.4, ""right"": 15.37, ""bottom"": 2.22}",1920x1080,1212x1018,856x720
+Swarm robot — rolling,38,media22.mp4,2.167,0.0,0.0,2.167,"{""left"": 14.31, ""top"": 10.26, ""right"": 37.84, ""bottom"": 50.0}",1080x1080,516x428,516x428
